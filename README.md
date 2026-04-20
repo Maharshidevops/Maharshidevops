@@ -26,13 +26,13 @@ philosophy: "Automate. Optimize. Secure. Scale."
 
 ---
 
-# 🎮 Contribution Graph (Pacman Animation)
+# 🎮 Contribution Graph 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> Your commits = Pacman eating contributions 🔥
+> Your commits = Snake eating contributions 🔥
 > (Auto-updates with your GitHub activity)
 
 ---
