@@ -1,4 +1,4 @@
- 🚀 Maharshi Patel
+ Maharshi Patel
 
 ### DevOps Engineer | Cloud Architect | Automation Specialist
 
@@ -117,13 +117,6 @@ G --> H[Optimize]
 ```
 
 ---
-
-# 🧠 Currently Engineering
-
-* Kubernetes (EKS / k3s HA)
-* GitOps (ArgoCD)
-* DevSecOps pipelines
-* Terraform modules
 
 ---
 
